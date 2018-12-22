@@ -12,7 +12,7 @@ Component.prototype.createOperations = function() {
     component.addOperation(
       "CreateDesktopEntry",
       "CabinetLock.desktop",
-      "Version=1.0\nType=Application\nTerminal=false\nExec=@TargetDir@/cabinetlock\nName=CabinetLock\nIcon=@TargetDir@YourApp_icon.png"
+      "Version=1.0\nType=Application\nTerminal=false\nExec=@TargetDir@/cabinetlock\nName=CabinetLock\nIcon=@TargetDir@/logo.png"
     );
     component.addOperation(
       "Copy",
