@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package>
+    <DisplayName>Cabinet Lock</DisplayName>
+    <Description>Install Cabinet Lock.</Description>
+    <Version>0.1.0</Version>
+    <ReleaseDate>2018-11-20</ReleaseDate>
+    <Licenses>
+        <License name="Cabinent Lock License Agreement" file="license.txt" />
+    </Licenses>
+    <Default>true</Default>
+    <Script>installscript.qs</Script>
+</Package>

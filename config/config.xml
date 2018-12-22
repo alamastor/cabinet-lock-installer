@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Installer>
+    <Name>Cabinet Lock</Name>
+    <Version>0.1.0</Version>
+    <Title>Cabinet Lock Installer</Title>
+    <Publisher>Alistair McKelvie</Publisher>
+    <StartMenuDir>Cabinet Lock</StartMenuDir>
+    <TargetDir>@HomeDir@/CabinetLock</TargetDir>
+</Installer>
